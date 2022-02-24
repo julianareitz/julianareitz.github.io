@@ -9,18 +9,11 @@ body {
     text-decoration: none;
 }
 
-.presentation {
-        color:rgb(218, 219, 189);
-        font-family: 'Arvo', serif;
-        font-weight: 300;
-        text-align: center;
+
+.menuBar {
+    background-color: rgba(21, 29, 59, 0.5);
+    padding:50px;
 }
-
-.presentationContents {
-    color: rgb(216, 33, 72);
-
-}
-
 
 .menu {
     width:960px;
@@ -49,5 +42,16 @@ body {
     margin: 0 auto;
     border-radius:100px;
     border-color: #2FC18C;
+}
+
+.presentation {
+    color:rgb(218, 219, 189);
+    font-family: 'Arvo', serif;
+    font-weight: 300;
+    text-align: center;
+}
+
+.presentationContents {
+color: rgb(216, 33, 72);
 
 }
