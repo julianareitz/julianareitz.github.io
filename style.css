@@ -1,0 +1,53 @@
+
+body {
+    font-family: sans-serif;
+    background-color:rgb(21, 29, 59);
+    margin: 100px;
+}
+
+ a {
+    text-decoration: none;
+}
+
+.presentation {
+        color:rgb(218, 219, 189);
+        font-family: 'Arvo', serif;
+        font-weight: 300;
+        text-align: center;
+}
+
+.presentationContents {
+    color: rgb(216, 33, 72);
+
+}
+
+
+.menu {
+    width:960px;
+    height:100%;
+    margin:auto;
+    display:table;
+    table-layout: fixed;
+    
+}
+.menu1 {
+    display:table-cell;
+    height:45px!important;
+    position:relative;
+    line-height:45px!important;
+    text-align:center;
+    color:rgb(110, 191, 139);
+    border:1px solid transparent;
+    z-index:5000;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 40px;
+
+}
+
+.profilePicture {
+    display:block;
+    margin: 0 auto;
+    border-radius:100px;
+    border-color: #2FC18C;
+
+}
