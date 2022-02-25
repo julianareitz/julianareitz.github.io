@@ -38,16 +38,18 @@ li {
 }
 .menu1 {
     display:table-cell;
-    height:45px!important;
+    height:45px;
     position:relative;
-    line-height:45px!important;
+    line-height:45px;
     text-align:center;
-    color:rgb(110, 191, 139);
     border:1px solid transparent;
     z-index:5000;
     font-family: 'Varela Round', sans-serif;
     font-size: 40px;
+}
 
+.barLinks {
+    color:rgb(110, 191, 139);
 }
 
 .profilePicture {
