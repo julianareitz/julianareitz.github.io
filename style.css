@@ -71,6 +71,11 @@ color: rgb(216, 33, 72);
 
 }
 
+.aboutMe {
+    height: 300px;
+    overflow:auto;
+}
+
 .aboutMeTopics, .contactMe {
     color:rgb(216, 33, 72);
     text-align:center;
