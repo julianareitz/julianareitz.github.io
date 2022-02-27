@@ -1,3 +1,9 @@
+* {
+   margin: 0;
+   padding:0; 
+   
+}
+
 
 body {
     font-family: sans-serif;
@@ -6,6 +12,8 @@ body {
     border-radius: 30px;
     display:block;
     margin: 0 auto;
+    max-width: 80%;
+    
 }
 
  a {
@@ -29,7 +37,6 @@ li {
 
 
 .menu {
-    width:960px;
     height:100%;
     margin:auto;
     display:table;
@@ -45,7 +52,7 @@ li {
     border:1px solid transparent;
     z-index:5000;
     font-family: 'Varela Round', sans-serif;
-    font-size: 40px;
+    font-size: 25px;
 }
 
 .barLinks {
